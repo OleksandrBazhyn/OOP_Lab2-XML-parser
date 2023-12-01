@@ -31,8 +31,7 @@ namespace Lab2
                                     from student in disciplineGroup.SelectMany(sg => sg)
                                     select new XElement("student",
                                         new XAttribute("name", student.Name),
-                                        new XAttribute("grade", student.Grade),
-                                        new XAttribute("course", student.Course)
+                                        new XAttribute("grade", student.Grade)
                                     )
                                 )
                             )
