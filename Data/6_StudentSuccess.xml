@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university>
+  <faculty name="Факультет інформаційних технологій">
+    <department name="Кафедра інтелектуальних та інформаційних систем">
+      <discipline name="Вища математика">
+        <student name="Аветисян Єгор Льовович" grade="63" course="2"/>
+        <student name="Кулик Анастасія Петрівна" grade="76" course="2"/>
+        <student name="Бажин Олександр Вадимович" grade="3" course="3"/>
+        <student name="Милостян Гліб Сергійович" grade="100" course="6"/>
+        <student name="Анісімов Денис Олександрович" grade="80" course="1"/>
+      </discipline>
+      <discipline name="Англійська мова">
+        <student name="Аветисян Єгор Льовович" grade="79" course="2"/>
+        <student name="Кулик Анастасія Петрівна" grade="68" course="2"/>
+        <student name="Бажин Олександр Вадимович" grade="83" course="3"/>
+        <student name="Милостян Гліб Сергійович" grade="100" course="6"/>
+        <student name="Анісімов Денис Олександрович" grade="61" course="1"/>
+      </discipline>
+      <discipline name="Програмування">
+        <student name="Аветисян Єгор Льовович" grade="89" course="2"/>
+        <student name="Кулик Анастасія Петрівна" grade="95" course="2"/>
+        <student name="Бажин Олександр Вадимович" grade="61" course="3"/>
+        <student name="Милостян Гліб Сергійович" grade="100" course="6"/>
+        <student name="Анісімов Денис Олександрович" grade="74" course="1"/>
+      </discipline>
+      <discipline name="Фізика">
+        <student name="Аветисян Єгор Льовович" grade="60"  course="2"/>
+        <student name="Кулик Анастасія Петрівна" grade="60" course="2"/>
+        <student name="Бажин Олександр Вадимович" grade="99" course="3"/>
+        <student name="Милостян Гліб Сергійович" grade="100" course="6"/>
+        <student name="Анісімов Денис Олександрович" grade="100" course="1"/>
+      </discipline>
+    </department>
+    <department name="Кафедра інформаційних систем та технологій">
+      <discipline name="Дискретна математика">
+        <student name="Бажин Юрій Володимирович" grade="85" course="1"/>
+        <student name="Грицак Ярослав Ярославович" grade="0" course="2"/>
+        <student name="Квітка Владислав Трояндович" grade="80" course="2"/>
+      </discipline>
+      <discipline name="Програмування">
+        <student name="Бажин Юрій Володимирович" grade="76" course="1"/>
+        <student name="Грицак Ярослав Ярославович" grade="65" course="2"/>
+        <student name="Квітка Владислав Трояндович" grade="100" course="2"/>
+      </discipline>
+      <discipline name="Фізична культура">
+        <student name="Бажин Юрій Володимирович" grade="70" course="1"/>
+        <student name="Грицак Ярослав Ярославович" grade="99" course="2"/>
+        <student name="Квітка Владислав Трояндович" grade="82" course="2"/>
+      </discipline>
+    </department>
+  </faculty>
+  <faculty name="Факультет комп'ютерних наук та кібернетики">
+    <department name="Кафедра математичної інформатики">
+      <discipline name="Дискретна математика">
+        <student name="Свистунов Антон Володимирович" grade="89" course="6"/>
+        <student name="Коваль Сергій Льовович" grade="70" course="6"/>
+      </discipline>
+      <discipline name="Алгебра та геометрія">
+        <student name="Свистунов Антон Володимирович" grade="78" course="6"/>
+        <student name="Коваль Сергій Льовович" grade="60" course="6"/>
+      </discipline>
+      <discipline name="Математична логіка">
+        <student name="Свистунов Антон Володимирович" grade="99" course="6"/>
+        <student name="Коваль Сергій Льовович" grade="100" course="6"/>
+      </discipline>
+      <discipline name="Математичний аналіз">
+        <student name="Свистунов Антон Володимирович" grade="69" course="6"/>
+        <student name="Коваль Сергій Льовович" grade="83" course="6"/>
+      </discipline>
+      <discipline name="Теорія ймовірностей">
+        <student name="Свистунов Антон Володимирович" grade="34" course="6"/>
+        <student name="Коваль Сергій Льовович" grade="67" course="6"/>
+      </discipline>
+      <discipline name="Диференціальні рівняння">
+        <student name="Свистунов Антон Володимирович" grade="68" course="6"/>
+        <student name="Коваль Сергій Льовович" grade="77" course="6"/>
+      </discipline>
+    </department>
+    <department name="Кафедра дослідження операцій">
+      <discipline name="ООП">
+        <student name="Хмельницький Богдан Богданович" grade="100" course="4"/>
+        <student name="Русіна Наталія Сатана" grade="65" course="2"/>
+        <student name="Крупа Іван Дроздович" grade="86" course="5"/>
+      </discipline>
+      <discipline name="C++. Додаткові розділи">
+        <student name="Хмельницький Богдан Богданович" grade="93" course="4"/>
+        <student name="Русіна Наталія Сатана" grade="69" course="2"/>
+        <student name="Крупа Іван Дроздович" grade="81" course="5"/>
+      </discipline>
+      <discipline name="Політологія">
+        <student name="Хмельницький Богдан Богданович" grade="98" course="4"/>
+        <student name="Русіна Наталія Сатана" grade="89" course="2"/>
+        <student name="Крупа Іван Дроздович" grade="72" course="5"/>
+      </discipline>
+    </department>
+    <department name="Кафедра інтелектуальних програмних систем">
+      <discipline name="ООП">
+        <student name="Зеленський Володимир Олександрович" grade="69" course="6"/>
+        <student name="Шалена Бджілка Рошенівна" grade="42"  course="1"/>
+        <student name="Порошенко Петро Олексійович" grade="56" course="5"/>
+      </discipline>
+      <discipline name="Дискретна математика">
+        <student name="Зеленський Володимир Олександрович" grade="93" course="6"/>
+        <student name="Шалена Бджілка Рошенівна" grade="75" course="1"/>
+        <student name="Порошенко Петро Олексійович" grade="88" course="5"/>
+      </discipline>
+      <discipline name="Соціологія">
+        <student name="Зеленський Володимир Олександрович" grade="95" course="6"/>
+        <student name="Шалена Бджілка Рошенівна" grade="82" course="1"/>
+        <student name="Порошенко Петро Олексійович" grade="73" course="5"/>
+      </discipline>
+    </department>
+  </faculty>
+  <faculty name="Факультет психології">
+    <department name="Кафедра загальної психології">
+      <discipline name="Психологія">
+        <student name="Сергієнко Поліна Сергіївна" grade="70" course="6"/>
+        <student name="Крутелик Крута Крутилівна" grade="80" course="3"/>
+      </discipline>
+      <discipline name="Історія">
+        <student name="Сергієнко Поліна Сергіївна" grade="86" course="6"/>
+        <student name="Крутелик Крута Крутилівна" grade="65" course="5"/>
+      </discipline>
+      <discipline name="Філософія">
+        <student name="Сергієнко Поліна Сергіївна" grade="93" course="6"/>
+        <student name="Крутелик Крута Крутилівна" grade="94" course="5"/>
+      </discipline>
+    </department>
+    <department name="Кафедра педагогіки">
+      <discipline name="Психологія">
+        <student name="Кисель Владислав Сергійович" grade="42" course="1"/>
+        <student name="Прущак Констянтин Володимирович" grade="100" course="1"/>
+        <student name="Прущак Людмила Анатоліївна" grade="93" course="1"/>
+      </discipline>
+      <discipline name="Філософія">
+        <student name="Кисель Владислав Сергійович" grade="64" course="1"/>
+        <student name="Прущак Констянтин Володимирович" grade="100" course="1"/>
+        <student name="Прущак Людмила Анатоліївна" grade="92" course="1"/>
+      </discipline>
+      <discipline name="Педагогіка">
+        <student name="Кисель Владислав Сергійович" grade="87" course="1"/>
+        <student name="Прущак Констянтин Володимирович" grade="100" course="1"/>
+        <student name="Прущак Людмила Анатоліївна" grade="97" course="1"/>
+      </discipline>
+    </department>
+  </faculty>
+</university>
