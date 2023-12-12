@@ -7,12 +7,8 @@
         public string Discipline = null;
         public string Name = null;
         public string Grade = null;
-        public string Course = null;
         public int MinGrade { get; set; } = -1;
         public int MaxGrade { get; set; } = 101;
-
-        public int MinCourse { get; set; } = -1;
-        public int MaxCourse { get; set; } = 7;
 
 
         public Student() { }
